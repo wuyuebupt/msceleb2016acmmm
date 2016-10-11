@@ -12,7 +12,8 @@ See the [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch) for a ste
 ## Models download
 
 Download [models.tar](http://155.33.199.157/models.tar) into the same directory of this code.
-tar -xvf models.tar
+
+Then unzip the model file by "tar -xvf models.tar"
 
 ## Usage:
 th classify_6_2.lua list
