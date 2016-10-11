@@ -35,3 +35,9 @@ forward time: 0.32
 m.0cqt90	"Donald Trump"@en
 
 m.0d06m5	"Hillary Rodham Clinton"@en
+
+## Reference
+
+Our ACM MM 2016 Multimedia Grand Challenge Paper:
+
+[Deep Convolutional Neural Network with Independent Softmax for Large Scale Face Recognition](http://dl.acm.org/citation.cfm?doid=2964284.2984060)
