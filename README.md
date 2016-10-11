@@ -38,6 +38,6 @@ m.0d06m5	"Hillary Rodham Clinton"@en
 
 ## Reference
 
-Our ACM MM 2016 Multimedia Grand Challenge Paper:
+MSR Image Recognition Challenge (IRC)@ACM Multimedia 2016: https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
-[Deep Convolutional Neural Network with Independent Softmax for Large Scale Face Recognition](http://dl.acm.org/citation.cfm?doid=2964284.2984060)
+Our ACM MM 2016 Multimedia Grand Challenge Paper: [Deep Convolutional Neural Network with Independent Softmax for Large Scale Face Recognition](http://dl.acm.org/citation.cfm?doid=2964284.2984060)
