@@ -14,11 +14,11 @@ If you already have Torch installed, update `nn`, `cunn`, and `cudnn`.
 
 
 
-Usage:
+## Usage:
 th classify_6_2.lua list
 
 
-Results:
+## Results:
 
 hillary_0_FaceId-0.jpg m.0d06m5:0.95839496697635	
 forward time: 0.59
@@ -29,7 +29,7 @@ forward time: 0.32
 
 
 
-Notes:
+## Notes:
 
 m.0cqt90	"Donald Trump"@en
 
