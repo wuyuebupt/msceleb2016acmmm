@@ -17,7 +17,7 @@ forward time: 0.32
 
 
 
-
+Notes:
 m.0cqt90	"Donald Trump"@en
 
 m.0d06m5	"Hillary Rodham Clinton"@en
