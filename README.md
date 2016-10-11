@@ -9,6 +9,11 @@ See the [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch) for a ste
 - Install [cuDNN v4 or v5](https://developer.nvidia.com/cudnn) and the Torch [cuDNN bindings](https://github.com/soumith/cudnn.torch/tree/R4)
 
 
+## Models download
+
+Download [models.tar](http://155.33.199.157/models.tar) into the same directory of this code.
+tar -xvf models.tar
+
 ## Usage:
 th classify_6_2.lua list
 
