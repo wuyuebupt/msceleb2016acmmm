@@ -11,7 +11,7 @@ See the [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch) for a ste
 
 ## Models download
 
-Download [models.tar](http://155.33.199.157/models.tar) into the same directory of this code.
+Download [models.tar](https://drive.google.com/file/d/0B0W0rPKOeIByX3VVcGdjWUNwejA/view?usp=sharing) into the same directory of this code.
 
 Then unzip the model file by "tar -xvf models.tar"
 
